@@ -1,0 +1,20 @@
+.header {
+    background: url('../assets/cat-paw-header.jpg');
+    background-size: contain;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-nav {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header-logo {
+    margin-left: 20px;
+    width: 50%;
+    font-size: 3em;
+}

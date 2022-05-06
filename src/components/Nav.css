@@ -1,0 +1,10 @@
+.nav-btn {
+    padding: 10px;
+    width: 150px;
+    border-radius: 50px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(200, 200, 200);
+    cursor: pointer;
+}
